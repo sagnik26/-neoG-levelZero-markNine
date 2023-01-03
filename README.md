@@ -1,3 +1,14 @@
+# Description
+This is a music interpreter website where you can search my favourite musics depending the category of musics.
+Wanna try?
+go check the link below to open the music interpreter app.
+
+# Visit the website
+Click [here](https://your-music-interpreter.netlify.app/) to visit the website
+
+# How to run on your Local Machine?
+If you want to run the application on you local machine, then download the code from this directory into your local machine & then follow the below instructions to run the app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
