@@ -1,7 +1,7 @@
 # Description
 This is a music interpreter website where you can search my favourite musics based on categories.
 Wanna try?
-go check the link below to open the music interpreter app.
+Go check the link below to open the music interpreter app.
 
 # Visit the website
 Click [here](https://your-music-interpreter.netlify.app/) to visit the website
