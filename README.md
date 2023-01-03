@@ -6,8 +6,17 @@ Go check the link below to open the music interpreter app.
 # Visit the website
 Click [here](https://your-music-interpreter.netlify.app/) to visit the website
 
+# How to use:
+- Open the link above to enter the website.
+- You can select any category of songs like rock, pop or classical and below you can see songs corrsponding to that category.
+
+# Technology Stack:
+- ReactJS
+- JavaScript
+- CSS
+
 # How to run on your Local Machine?
-If you want to run the application on you local machine, then download the code from this directory into your local machine & then follow the below instructions to run the app.
+If you want to run the application on you local machine, then download the code from this repository into your local machine & then follow the below instructions to run the app.
 
 # Getting Started with Create React App
 
